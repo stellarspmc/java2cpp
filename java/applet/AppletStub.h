@@ -1,0 +1,4 @@
+#ifndef APPLETSTUB_H
+#define APPLETSTUB_H
+
+#endif //APPLETSTUB_H
